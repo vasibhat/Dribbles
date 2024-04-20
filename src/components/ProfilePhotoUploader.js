@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 
 const ProfilePhotoUploader = () => {
   const loadFile = (event) => {
-    const input = event.target;
-    const file = input.files[0];
     const output = document.getElementById('preview_img');
 
     output.src = URL.createObjectURL(event.target.files[0]);
@@ -30,7 +28,7 @@ const ProfilePhotoUploader = () => {
         <h2 className="text-xl font text-gray-400 text-center">Lets others get to know you better! You can do this later</h2>
         <h2 className="text-3xl font-bold">Add an avatar</h2>
         <div className="shrink-0">
-          <img id='preview_img' className="h-36 w-36 object-cover rounded-full" src="https://t3.ftcdn.net/jpg/05/21/45/18/240_F_521451892_hB7R2GEpwwPZQ2J0pZYOSg142e6905aE.jpg" alt="Current profile photo" />
+          <img id='preview_img' className="h-36 w-36 object-cover rounded-full" src="https://t3.ftcdn.net/jpg/05/21/45/18/240_F_521451892_hB7R2GEpwwPZQ2J0pZYOSg142e6905aE.jpg" alt="Current profile" />
         </div>
         <label className="block">
           <span className="sr-only">Choose profile photo</span>
