@@ -58,7 +58,7 @@ function Footer() {
         <ul className="mt-8 flex gap-6">
           <li>
             <a
-              href="#"
+              href=""
               rel="noreferrer"
               target="_blank"
               className="text-gray-700 transition hover:opacity-75"
@@ -77,7 +77,7 @@ function Footer() {
 
           <li>
             <a
-              href="#"
+              href=""
               rel="noreferrer"
               target="_blank"
               className="text-gray-700 transition hover:opacity-75"
@@ -96,7 +96,7 @@ function Footer() {
 
           <li>
             <a
-              href="#"
+              href=""
               rel="noreferrer"
               target="_blank"
               className="text-gray-700 transition hover:opacity-75"
@@ -113,7 +113,7 @@ function Footer() {
 
           <li>
             <a
-              href="#"
+              href=""
               rel="noreferrer"
               target="_blank"
               className="text-gray-700 transition hover:opacity-75"
@@ -132,7 +132,7 @@ function Footer() {
 
           <li>
             <a
-              href="#"
+              href=""
               rel="noreferrer"
               target="_blank"
               className="text-gray-700 transition hover:opacity-75"
@@ -157,32 +157,32 @@ function Footer() {
 
           <ul className="mt-6 space-y-4 text-sm">
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75">Go pro!</a>
+              <a href="" className="text-gray-700 transition hover:opacity-75">Go pro!</a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Explore </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Explore </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Design blog</a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Design blog</a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75">Overtime podcast </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75">Overtime podcast </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Playoffs</a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Playoffs</a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Weekly Warm-up</a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Weekly Warm-up</a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Refer a Friend</a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Refer a Friend</a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Code of conduct</a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Code of conduct</a>
             </li>
           </ul>
         </div>
@@ -191,23 +191,23 @@ function Footer() {
 
           <ul className="mt-6 space-y-4 text-sm">
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Post s job opening </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Post s job opening </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Post a freelance project </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Post a freelance project </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Search for designers </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Search for designers </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-900 font-medium transition hover:opacity-75"> Brands </a>
+              <a href="" className="text-gray-900 font-medium transition hover:opacity-75"> Brands </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Advertise with us </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Advertise with us </a>
             </li>
           </ul>
         </div>
@@ -217,33 +217,33 @@ function Footer() {
 
           <ul className="mt-6 space-y-4 text-sm">
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> About </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> About </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Careers </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Careers </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Support </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Support </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Media kit </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Media kit </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Testimonials </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Testimonials </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> API </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> API </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Terms of service </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Terms of service </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Privacy policy </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Privacy policy </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Cookie policy </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Cookie policy </a>
             </li>
           </ul>
         </div>
@@ -253,36 +253,36 @@ function Footer() {
 
           <ul className="mt-6 space-y-4 text-sm">
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Design jobs </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Design jobs </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Designers for hire </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Designers for hire </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Freelance designers for hire </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Freelance designers for hire </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Tags </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Tags </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Places </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Places </a>
             </li>
             <li>
-              <a href="#" className="text-gray-950 transition hover:opacity-75 font-medium"> Design assets </a>
+              <a href="" className="text-gray-950 transition hover:opacity-75 font-medium"> Design assets </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Dribble Marketplace </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Dribble Marketplace </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Creative Market </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Creative Market </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Fontspring </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Fontspring </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Font Squirrel </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Font Squirrel </a>
             </li>
           </ul>
         </div>
@@ -292,25 +292,25 @@ function Footer() {
 
           <ul className="mt-6 space-y-4 text-sm">
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Freelancing </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Freelancing </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Design Hiring </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Design Hiring </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Design Portfolio </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Design Portfolio </a>
             </li>
 
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Design Eduction </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Design Eduction </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Creative Process </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Creative Process </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 transition hover:opacity-75"> Design Industry Trends </a>
+              <a href="" className="text-gray-700 transition hover:opacity-75"> Design Industry Trends </a>
             </li>
           </ul>
         </div>
