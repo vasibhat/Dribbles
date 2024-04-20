@@ -19,13 +19,13 @@ const VerificationEmail = () => {
           </p>
           <div className="flex flex-col space-y-4">
             <p className="text-center">Didn't receive the email? Check your Spam folder, it may have been caught by a filter. If you still don't see it you can</p>
-            <a href="" className="text-lg text-pink-400 hover:underline focus:outline-none text-center">
+            <a href="/" className="text-lg text-pink-400 hover:underline focus:outline-none text-center">
               resend the confirmation email.
             </a>
           </div>
           <div className="flex flex-col space-y-4">
             <p className="text-center">Wrong email address?</p>
-            <a href="" className="text-lg text-pink-400 hover:underline focus:outline-none text-center">
+            <a href="/" className="text-lg text-pink-400 hover:underline focus:outline-none text-center">
               Change it.
             </a>
           </div>

@@ -45,11 +45,11 @@ const SignUpForm = () => {
           </div>
           
           <p>Creating an account means you're okay with our,</p>
-          <a href="" className="text-sm text-pink-400 hover:underline focus:outline-none">
+          <a href="/" className="text-sm text-pink-400 hover:underline focus:outline-none">
             Terms of Service,Privacy Policy
           </a>
           <p> and our default </p>
-          <a href="" className="text-sm text-pink-400 hover:underline focus:outline-none">
+          <a href="/" className="text-sm text-pink-400 hover:underline focus:outline-none">
             Notification Setings
           </a>
           <div className="flex items-center justify-center lg:justify-start mt-4">
